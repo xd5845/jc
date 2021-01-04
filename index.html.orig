@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>igg和平精英半火端口</title>
+　<metacontent="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0"name="viewport">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+
+
+</head>
+<body>
+
+
+<center>
+	<font color="#00000">
+	<p>ios越狱设备可用</p>
+<p>如果设备之前有过封号，建议先平刷，如果平刷仍然封号，联系管理员</p>
+<p>平刷教程<a href="https://share.weiyun.com/4Hjmjgn9">https://share.weiyun.com/4Hjmjgn9</a></p>
+<p>建议准备一个专门玩游戏的手机，手机越干净越稳</p>
+<p>ios13.7以下使用奥赛德越狱，ios14以上使用checkra1n（c1只支持A11以下设备，无视系统版本越狱）</p>
+<p>切记，切记！！！越狱之后不要重启，电量不要低于10%，不要各种瞎琢磨，有什么不懂先问群主，再说一次，千万不要重启！！！！！</p>
+<p>购买周卡可免费找管理员越狱（前提是手机支持越狱）</p>
+<p>1.下载证书</p>
+<p>证书下载需要用ios用手机自带浏览器</p>
+
+<p>证书链接<a href="http://119.45.150.203/zs.cer">http://119.45.150.203/zs.cer</a></p>
+
+<p>下载完成之后进手机设置-通用-描述文件与设备管理-把里面下载好的证书安装】	</p>
+	<font color="#D2691E"><p>然后进入【手机设置-通用-关于本机-最下面信任设置把里面的证书开关打开】（这里99%的人都漏了，漏了就玩不了，仔细）
+<p><img src="https://preview.cloud.189.cn/image/imageAction?param=6AB4F616B29FD38579EDCD935AA0AD3D6951B0CB4A61716D7011329AFA663E050DA96393906314CBE24683A86821C58364D5827C4CB1EABD5C09B0B1B4EF1FC26DBABD41A8B4012FB84E2687CB2230E18031F56806DC4383DDE8189A" alt="Smiley face" width="200" height="200"></p></font>
+
+
+<p>2.下载quantumult<img src="https://preview.cloud.189.cn/image/imageAction?param=89D5153DAF1FD133100C99E9C62A371273F1596FE35126615E89F970342872606759DFB9745D04C4A7B0202DC8794EF32B276B154D6325A128DBB5EFC8539D31DD59854AF1A58AF200A2FD9755AFE641DAC73AFB4B8E6A2775592605" alt="Smiley face" width="32" height="32"></p>
+
+
+<p>苹果APP商店把自己的ID退出来然后登录</p>
+
+<p>美区ID账号：yremp2@outlook.com</p>
+
+<p>密码：https://yremp.live/Airport21</p>
+
+<p>APP商店登陆 别登陆icloud</p>
+
+<p>搜索Quantumult
+
+
+<p>3.连接端口</p>
+	<p>打开下载的 Quantumult 点设置-服务器 点<img src="https://preview.cloud.189.cn/image/imageAction?param=576E4A931754071C773252E2CE94228E8AEB9000A122105FC1CF3B2E283E749409FBC3FB94E7B19D47D8CF3C70850406670454D5CF5C4F30218F4DFBF7D7CD4A17764793F93E808D5B3ED71C04E238E98CB3E39298A0A1CF45503F5F" alt="Smiley face" width="32" height="32"> 添加服务器</p>
+	<p>配置端口内容如下</p>
+<p>类型：Http</p>
+<p>名称：随便填</p>
+<p>地址： 119.45.150.203</p>
+<p>端口：8888</p>
+<p>认证按钮打开<img src="https://preview.cloud.189.cn/image/imageAction?param=B2270FAE6117AF067FC48B9800D15EC3D49A58948492BCEC63222BE3E5931F277862D1A2608B6BAB4076D2892E805A0FC1768DAAAC90242A288E147363A81452745353CACEBE9C54110F8A9354EE92D7EA7237732CF23FB4292CA9CC" alt="Smiley face" width="46" height="28"></p>
+<p>用户名：购买的<a href="http://119.45.150.203">(点击购买)</a></p>
+<p>密码：购买的<a href="http://119.45.150.203">(点击购买)</a></p>
+<img src="https://preview.cloud.189.cn/image/imageAction?param=7FF0E8CED98501104D5469316BDFD6CB769AA28CC3B6D1DAF2E13DDAE77EE7FFAAA62FD0516FDF994F18DB6C984BCBB099D8DBDF077A3BF73D37479CF3F6995710CB8E149B2BD56E7CDBD4B7B871881C8EDC968574853362BFB9F75F" alt="Smiley face" width="200" height="280"></p>
+<font color="#D2691E"><p>最下面的OverTLS请不要打开，打开就没网了</font>
+<p>【以上内容配置好之后点保存-首页-打开右上角开关连接<img src="https://preview.cloud.189.cn/image/imageAction?param=98FE1F98BC6BDE3035EE05F5538E63F5826AB3AC157BB197C4EB3F9EE9BA73F5E5CD317D3FA9139E334CF157524D1D591E7640052EBBA3FDEB6C7E0B912DF94D014ABBD23FCE722CBBF0C211164BB9A76DA700679A52055436902E95" alt="Smiley face" width="46" height="32">-右下角四方格<img src="https://preview.cloud.189.cn/image/imageAction?param=C7F19BB16857C8AC2488780E4262FD57AD41194A871B5FB21F0C1E59B5719A1587B720112E2D62285EA1D42A938C6EE9F25DE53262253C0B83200CAB6AB9FB7D1A63412824836489461ED72249F28FF4BC16EA46AB74F3AF5637EA6C" alt="Smiley face" width="32" height="32">选择全局代理】</p>
+<p>苹果自带浏览器手动输入www.baidu.com查看是否成功</p>
+
+<p>4Cydia更换Zebra商店（奥德赛Sileo越狱请忽略此步骤）</p>
+
+<p>①在cydia中添加源<a href="https://getzbra.com/repo/">https://getzbra.com/repo/</a>，安装源内zbra。</p>
+<p>②等待桌面出现zbra图标，进入Zebra点软件包找到C开头的，把带有cydia的全部移除。</p>
+		
+	<font color="#D2691E"><p>确认连接上之后，先断开端口（连上端口之后除了打游戏什么都干不了，其他程序都没有网络，游戏更新下载地图也要正常登入游戏才可以进行）</p></font>
+<p>5.安装必要越狱工具</p>
+<p>先添加1个越狱源到Zebra/Sileo</p>
+<p>大雷源™<a href="https://apt.cdalei.com">https://apt.cdalei.com</a></p>
+
+<p>添加越狱源演示<a href="https://share.weiyun.com/v9MJvQex">https://share.weiyun.com/v9MJvQex</a></p>
+<p>打开越狱商店cydia/sileo，点搜索安装以下2个工具   【icleaner】【filza】</p>
+<p>【CrackTool3 破解插件】这个插件可以去掉小扫把广告</p>
+<p>免费IGG伪装包<a href="http://119.45.150.203/1.deb ">http://119.45.150.203/1.deb </a>需要自带浏览器下载，之后拷贝到filza中安装</p>
+
+
+<p>买过正版就添加蜂巢源<a href="https://apt.fcydia.com/ ">https://apt.fcydia.com/ </a>在里面随便安装一个蓝盾的伪装包就行了，没有购买正版的可以找群主代购48块,30秒激活，不会像蜂巢源那样随便拉黑，放心购买</p>
+
+
+
+
+
+<p>6.设置防止追封</p>	
+	
+	<p>正常登入游戏，把账号登入上去，然后关掉游戏设置防止追封</p>
+<p>防止追封<a href="http://119.45.150.203/防止追封">http://119.45.150.203/防止追封</a></p>
+			
+
+<p>igg设置图(一共四处要修改)</p>
+<p><img src="https://preview.cloud.189.cn/image/imageAction?param=040910AADF5639D802461F1E1009CF731A06925FFD0360598827ED5866084E00B7166E2435EEAD136CAE1D395D8DFCD4922E3E305DA6B0A89C171DE64496D20601F666CB4FFAD127423CED3891470E304E97ACEF90FCF55BD0DFB41F" alt="Smiley face" width="180" height="360"></p>
+<p>小扫把设置图</p>
+<p><img src="https://preview.cloud.189.cn/image/imageAction?param=19F3F0D563CCB6C11776CD53944467772517C83E6E4DEF2FE2204E82B9C896BF7839D11595ABDAB70CA92E28C45A38C8C16C942DBFBF0DD061478C6A4CE0D5F897DB767E9617E31A53FC34D54763C0A7D131280216A9EB6B98DCAB32" alt="Smiley face" width="180" height="360"></p>
+
+<p>7.登入流程</p>		
+				<p>登入流程：扫把扫 -连端口-进游戏-大厅切出来改代码-关掉所有后台进游戏</p>
+		</p>换号流程：关游戏-扫把-正常登入换号-关游戏-扫把扫 -连端口-进游戏-大厅切出来改代码-关掉所有后台进游戏</p>
+	<p>不玩了，直接划掉游戏后台，然后打开icleaner扫一下（新手建议每次玩游戏前都用icleaner扫一下。）</p>
+<p>改代码操作流程<a href="https://share.weiyun.com/96bdBNBD">https://share.weiyun.com/96bdBNBD</a></p>
+<p>改极限帧率教程<a href="https://share.weiyun.com/uOhIH4g2">https://share.weiyun.com/uOhIH4g2</a></p>
+<p>找自己聚点午后代码教程<a href="https://share.weiyun.com/vK6gb7ri">https://share.weiyun.com/vK6gb7ri</a></p>
+
+	<p>8.注意事项</p>
+	<font color="#D2691E"><p>上色代码第一次搜索必须3条，联合搜索必须两条，如果数据不对，请马上划掉游戏后台</p>
+<p>(不管改不改上色都要搜上色，上色搜正确了才可以搜改其他的代码，不然会封号）</p>
+<p>上色不3条解决方案<a href="https://share.weiyun.com/go95NBYz">https://share.weiyun.com/go95NBYz</a></p>
+
+<p>（上色出现4条，请关闭端口正常登入游戏，隐藏大厅载具展示）</p>
+<p>进入游戏大厅切换出去一次性修改完</p>
+		<p>不能玩一把又切换出去修改，若要修改必须关闭游戏后台重新改</p>
+
+
+	</font>
+<p>9.半火代码</p>		
+
+
+		<p>1.黑白上色</p>
+<p>大厅搜改</p>
+<p>F32 0.05499718338</p>
+<p>联合F32 1（联合就是打开右上角的按钮开关，ipad是在左上角，打开之后数值搜索就变成邻近搜索）</p>
+<p>1改99白色-1黑色</p>
+
+<p>2.最新午后聚点</p>  
+<p>大厅i64搜9049x（自己看群文件视频教程找数值，每个人不一样）</p>
+<p>D8或者58结尾的改0</p>
+
+<p>3.透（透根据自己机型搜索，）</p>
+<p>ios13以上系统才有透视</p>
+<p>透A9</p>
+<p>大厅搜改</p>
+<p>i64搜 1233423446748827934</p>
+<p>全改 1233423356554514718</p>
+<p>A10透 </p>
+<p>范围0x20 </p>
+<p>i32 搜1090781597 </p>
+<p>联合I16搜23  </p>
+<p>两个8 或者2结尾的改2</p>
+
+
+
+<p>iOS13系统A11</p>
+<p>大厅搜改</p>
+<p>i32搜-266039062</p>
+<p>全改-1659360043</p>
+
+<p>iOS14系统透A11</p>
+<p>大厅搜改</p>
+<p>I64搜索 4884721316567056388 </p>
+<p>全改 4884721329451958276</p>
+
+<p>透A12-A13</p>
+<p>范围20</p>
+<p>i32搜-1315307262</p>
+<p>联合i16搜283</p>
+<p>283结尾为A的改323</p>
+
+
+
+<p>镜头防抖</p>
+
+<p>i64搜6874028368030887269</p>
+<p>第一个数据改0</p>
+
+
+<p>枪口防抖</p>
+
+<p>i64搜28549271802637893</p>
+<p>第二个改0 </p>
+			
+
+		<div id="footer" style="background-color:#C0C0C0;clear:both;text-align:center;">		
+		
+
+版权 © 841198719</div>
+		</font>		
+	</center>
+</body>
+</html>
